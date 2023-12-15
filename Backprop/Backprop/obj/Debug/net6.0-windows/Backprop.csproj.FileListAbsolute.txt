@@ -1,0 +1,36 @@
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.csproj.AssemblyReference.cache
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.Form1.resources
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.csproj.GenerateResource.cache
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.GeneratedMSBuildEditorConfig.editorconfig
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.AssemblyInfoInputs.cache
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.AssemblyInfo.cs
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.csproj.CoreCompileInputs.cache
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\bin\Debug\net6.0-windows\Backprop.exe
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\bin\Debug\net6.0-windows\Backprop.deps.json
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\bin\Debug\net6.0-windows\Backprop.runtimeconfig.json
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\bin\Debug\net6.0-windows\Backprop.dll
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\bin\Debug\net6.0-windows\Backprop.pdb
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.dll
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\obj\Debug\net6.0-windows\refint\Backprop.dll
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.pdb
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.genruntimeconfig.cache
+E:\BISU-BILAR\4. Professional Development\DIT\DIT831 - Intelligent Systems 1\Backprop\Backprop\obj\Debug\net6.0-windows\ref\Backprop.dll
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\bin\Debug\net6.0-windows\Backprop.exe
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\bin\Debug\net6.0-windows\Backprop.deps.json
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\bin\Debug\net6.0-windows\Backprop.runtimeconfig.json
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\bin\Debug\net6.0-windows\Backprop.dll
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\bin\Debug\net6.0-windows\Backprop.pdb
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.csproj.AssemblyReference.cache
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.Form1.resources
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.csproj.GenerateResource.cache
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.GeneratedMSBuildEditorConfig.editorconfig
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.AssemblyInfoInputs.cache
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.AssemblyInfo.cs
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.csproj.CoreCompileInputs.cache
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.dll
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\refint\Backprop.dll
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.pdb
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.genruntimeconfig.cache
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\ref\Backprop.dll
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+E:\264-PCSSPIPCABISUBC\Backprop\Backprop\obj\Debug\net6.0-windows\Backprop.csproj.CopyComplete

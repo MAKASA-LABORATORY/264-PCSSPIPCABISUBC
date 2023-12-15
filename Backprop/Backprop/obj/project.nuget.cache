@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSe4iQDCH1xXmxpM3MzUSJ6qI4uNs0Bm7w1EqekyBOPiTlMWRlTtQNXch8ykSuyXga5o8nkk5GWeSDztV/+rMg==",
+  "success": true,
+  "projectFilePath": "E:\\264-PCSSPIPCABISUBC\\Backprop\\Backprop\\Backprop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\perin\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
